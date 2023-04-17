@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846727460282",
+    "project_id": "push-notif-8d653",
+    "storage_bucket": "push-notif-8d653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846727460282:android:5a422ad2cd1ee1578bd983",
+        "android_client_info": {
+          "package_name": "com.betclicci.elitesportsbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846727460282-1q7n9q3selcnaopmuhkdeeecfk36hb3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3NSD27Wewc_nEuDlmFqAa81da_zXBw8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846727460282-1q7n9q3selcnaopmuhkdeeecfk36hb3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
